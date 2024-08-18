@@ -12,6 +12,7 @@ You can implement shared functionality across a component tree using several Rea
 4. Render Props: Passing a function as a prop to share code between components.
 
 
+
 2. Why is the `useState` hook appropriate for handling state in a complex component?
 
 Solution: 
