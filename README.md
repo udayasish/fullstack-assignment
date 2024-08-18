@@ -8,18 +8,6 @@
    cd fullstack-assignment
    ```
 
-Here's the updated README file with proper spacing and instructions:
-
-# Help Center API Assignment
-
-## Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/udayasish/fullstack-assignment.git
-   cd fullstack-assignment
-   ```
-
 2. **Frontend Setup:**
    - Navigate to the `frontend` folder:
      ```bash
@@ -57,8 +45,6 @@ Here's the updated README file with proper spacing and instructions:
 ---
 
 Now, both your frontend and backend applications should be running on separate ports, with the frontend at `http://localhost:5173/` and the backend server at `http://localhost:8000/`.
-
-Make sure to check the respective `frontend.md` and `backend.md` files for more detailed instructions on completing each section of the assignment.
 
 ---
 
