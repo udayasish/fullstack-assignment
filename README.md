@@ -46,8 +46,6 @@
 
 Now, both your frontend and backend applications should be running on separate ports, with the frontend at `http://localhost:5173/` and the backend server at `http://localhost:8000/`.
 
-Make sure to check the respective `frontend.md` and `backend.md` files for more detailed instructions on completing each section of the assignment.
-
 ---
 
 ## React Assignment
