@@ -4,24 +4,61 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
+   git clone https://github.com/udayasish/fullstack-assignment.git
    cd fullstack-assignment
    ```
 
-2. **Frontend:**
-   - Create a React app in the `frontend` folder.
-   - Follow the instructions in `frontend.md` to complete the frontend.
+Here's the updated README file with proper spacing and instructions:
 
-3. **Backend:**
-   - Create a Node.js app in the `backend` folder.
-   - Follow the `backend.md` instructions to complete the backend.
+# Help Center API Assignment
 
-4. **Push Your Work:**
-   - Push both the frontend and backend apps to the same repository.
-   - Make sure the repository is public.
+## Instructions
 
-5. **Submit Your Work:**
-   - Paste the GitHub repository link in the Google form you received after pushing your code.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/udayasish/fullstack-assignment.git
+   cd fullstack-assignment
+   ```
+
+2. **Frontend Setup:**
+   - Navigate to the `frontend` folder:
+     ```bash
+     cd frontend
+     ```
+   - Install the necessary dependencies:
+     ```bash
+     npm install
+     ```
+   - Run the frontend application:
+     ```bash
+     npm run dev
+     ```
+   - The app will run at [http://localhost:5173/](http://localhost:5173/).
+
+3. **Backend Setup:**
+   - Open another terminal and navigate to the `backend` folder:
+     ```bash
+     cd backend
+     ```
+   - Create a `.env` file by copying the values from `.env.sample`:
+     ```bash
+     cp .env.sample .env
+     ```
+   - Install the dependencies:
+     ```bash
+     npm install
+     ```
+   - Run the backend server:
+     ```bash
+     npm run dev
+     ```
+   - The backend server will listen on `http://localhost:8000/`.
+
+---
+
+Now, both your frontend and backend applications should be running on separate ports, with the frontend at `http://localhost:5173/` and the backend server at `http://localhost:8000/`.
+
+Make sure to check the respective `frontend.md` and `backend.md` files for more detailed instructions on completing each section of the assignment.
 
 ---
 
